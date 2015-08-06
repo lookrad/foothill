@@ -1,0 +1,1 @@
+<?php define('PITCH_APIKEY', 'c160d274770a1bd2408daa2a02551032');     define('PITCH_SECRETKEY', 'Yb@mdfAlM]pz&NT]gGB23sTBH87GGw'); define(PITCH_JSCRIPT, ''); ?>

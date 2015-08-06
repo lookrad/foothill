@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-06-05 17:43:29
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.22
+WORDPRESS:	4.2.2
+PHP INFO:	5.5.10 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 39.5MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Not Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:35 | filtered:0 | create:35 
+FILTERED: [] 
+SQL CREATED: foothill_5571dd306890e2625150605173232_database.sql 
+SQL FILE SIZE: 1.19MB 
+SQL FILE TIME: 2015-06-05 17:43:29 
+SQL RUNTIME: 0.73 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/foothillprint 
+ARCHIVE FILE: foothill_5571dd306890e2625150605173232_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	91.74MB 
+STATS:	Dirs 1,222 | Files 7,163 | Links 0 
+SQL ADDED: foothill_5571dd306890e2625150605173232_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 8385
+    [filename] => /Applications/MAMP/htdocs/foothillprint/wp-snapshots/tmp/foothill_5571dd306890e2625150605173232_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 39.76MB 
+ARCHIVE RUNTIME: 76.37 sec. 
+MEMORY STACK: 42MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/foothillprint/wp-snapshots/tmp/foothill_5571dd306890e2625150605173232_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.19MB 
+Installer File: 318.04KB 
+Archive File: 39.76MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 79.67 sec.
+PEAK PHP MEMORY USED: 44MB
+DONE PROCESSING => foothill 2015-06-05 17:44:48
+ 
